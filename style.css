@@ -1,0 +1,9 @@
+.mapdiv :hover{
+  fill:#FF0000;
+}
+.mapdiv path{
+transition: fill 0.3s;
+}
+div {
+   background-color: #c0c0c0;
+}
